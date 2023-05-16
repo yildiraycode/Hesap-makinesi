@@ -5,4 +5,5 @@ print("""
 Toplam:{}
 Fark:{}
 Çarpım:{}
-Bolme:{}""".format(sayi1+sayi2,sayi1-sayi2,sayi1*sayi2,sayi1/sayi2))
+sayi1 in sayi 2 'nci kuvveti:{}
+Bolme:{}""".format(sayi1+sayi2,sayi1-sayi2,sayi1*sayi2,sayi1**sayi2,sayi1/sayi2))
